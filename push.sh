@@ -3,5 +3,6 @@ cd /home/joel/sisopercron
 
 git add .
 git commit -m "commit z"
-git push
+git push origin master
+
 echo "operacion exitosa"
