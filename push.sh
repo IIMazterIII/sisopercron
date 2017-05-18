@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/joel/sisopercron
+cd /home/joel/sisopercron/push.sh
 
 git add .
 git commit -m "commit z"
